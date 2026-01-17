@@ -1,0 +1,7 @@
+{
+  "name": "Polyglot ASR Dispatcher",
+  "description": "A strategy-pattern based ASR (Automatic Speech Recognition) application that switches between Cloud (Gemini) and Local (Browser Native) engines.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
